@@ -1,8 +1,7 @@
 ## A starter template for Node.js + TypeScript
+First run `npm install` then:
 
 Run `npm start` to compile and run index.ts.
-
-  
 
 Run `npm test` to recursively compile and run tests in `test` folder.
 

@@ -1,6 +1,7 @@
 {
     "extends": "@tsconfig/node-lts/tsconfig.json",
     "compilerOptions": {
+        "esModuleInterop": true
     },
     "include": ["src"],
     "exclude": ["node_modules"]

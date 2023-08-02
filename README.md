@@ -1,5 +1,5 @@
 ## A starter template for Node.js + TypeScript
-Run `npm start` to compile and run index.ts
+Run `npm start` to compile and run index.ts.
 
 ##### TODO
 - [ ] Add test command to run .ts tests in `test` recursively

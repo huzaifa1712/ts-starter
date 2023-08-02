@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "start": "npx tsc && node src/index.js && rm src/index.js",
-    "test": "./test.sh"
+    "test": "./run_tests.sh"
   },
   "author": "",
   "license": "ISC",

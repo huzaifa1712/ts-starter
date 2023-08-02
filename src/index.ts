@@ -1,2 +1,1 @@
-let x = 2;
-console.log(2);
+console.log("Hello world");

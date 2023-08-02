@@ -1,2 +1,2 @@
-console.log("hi");
-//# sourceMappingURL=index.js.map
+console.log("Hello world");
+export {};

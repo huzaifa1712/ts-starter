@@ -1,4 +1,4 @@
-## A starter repository for Node.js + TypeScript
+## A starter template for Node.js + TypeScript
 Run `npm start` to compile and run index.ts
 
 ##### TODO
